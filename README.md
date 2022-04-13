@@ -7,6 +7,8 @@ During the learning process the project will be hosted at Platform.sh, which stu
 
 ## How to Use the Guestbook
 
+## Developments details
+
 ## Credits
 
 [Symfony 6: The Fast Track](https://symfony.com/doc/current/the-fast-track/en/index.html)\
