@@ -9,4 +9,5 @@ During the learning process the project will be hosted at Platform.sh, which stu
 
 ## Credits
 
-[Symfony 6: The Fast Track](https://symfony.com/doc/current/the-fast-track/en/index.html)
+[Symfony 6: The Fast Track](https://symfony.com/doc/current/the-fast-track/en/index.html)\
+[freeCodeCamp: How to Write a Good README File for Your GitHub Project](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/)
