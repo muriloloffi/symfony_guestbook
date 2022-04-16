@@ -44,6 +44,10 @@ Symfony utilizes the Twig template engine. The advantages of utilizing a templat
 
 The Symfony profiler can be used to measure performance of different components, find errors, read dumps.
 
+### Configuration files
+
+Describing infrastructure with configuration files allow for code and infrastructure changes as part of the same patches.
+
 ## Credits
 
 [Symfony 6: The Fast Track](https://symfony.com/doc/current/the-fast-track/en/index.html)\
