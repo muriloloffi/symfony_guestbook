@@ -24,7 +24,7 @@ variables:
 build:
     flavor: none
 
-disk: 128
+disk: 1024
 
 web:
     locations:
